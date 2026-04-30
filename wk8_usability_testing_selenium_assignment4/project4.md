@@ -116,17 +116,13 @@ The Katalon test executed successfully. Login steps replayed correctly in some r
 
 ## Evidence
 
-### Katalon Recorder Test Steps
-
-![Katalon Login Test](Screenshot 2026-04-17 at 2.48.09 PM.png)
-
 ### Browser State During Test
 
-![Login Browser Result](image.png)
+![Login Browser Result](public/image.png)
 
 ### Additional Replay Evidence
 
-![Replay Output](image-1.png)
+![Replay Output](public/image-1.png)
 
 ---
 
@@ -180,7 +176,7 @@ The cart displayed the correct product name and price.
 
 ## Evidence
 
-![Cart Verification](image-2.png)
+![Cart Verification](public/image-2.png)
 
 ---
 

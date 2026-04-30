@@ -103,7 +103,7 @@ Expected Output:
 
 `Final Price: $11`
 
-![alt text](image.png)
+![alt text](public/image.png)
 
 ## Rainy Day Test Case
 
@@ -116,7 +116,7 @@ Example invalid entries:
 idk
 y
 ```
-![alt text](image-1.png)
+![alt text](public/image-1.png)
 
 ```
 if showtime == 'matinee'

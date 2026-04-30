@@ -36,7 +36,7 @@ The endurance test was configured with:
 
 This setup simulates a steady and sustained workload over a period of time. The system maintained an average response time of approximately 165 ms with an error rate near 0%. This indicates that the system performs reliably under continuous load without noticeable degradation.
 
-![alt text](image-1.png)
+![alt text](public/image-1.png)
 
 ### Load Test
 The load test was configured with: 
@@ -48,7 +48,7 @@ This test increases the number of active users to evaluate performance under hig
 
 Compared to the endurance test, response time increased and a small number of errors appeared, indicating that performance begins to degrade slightly as load increases. This behavior is expected as increased concurrency introduces resource contention on the system.
 
-![alt text](<Screenshot 2026-04-08 at 10.52.47 AM.png>)
+![alt text](public/Screenshot%202026-04-08%20at%2010.52.47%20AM.png)
 
 ### Spike Test
 The spike test was configured with: 
@@ -59,7 +59,7 @@ The spike test was configured with:
 
 This configuration simulates a sudden surge in traffic. The results showed an average response time of approximately 218 ms, throughput of over 500 requests per second, and an error rate of 0.05%. Despite the rapid increase in traffic, the system remained stable with only minimal performance degradation, demonstrating resilience under sudden load spikes.
 
-![alt text](image-2.png)
+![alt text](public/image-2.png)
 
 ---
 

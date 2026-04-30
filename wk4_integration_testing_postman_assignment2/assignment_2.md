@@ -98,7 +98,7 @@ A Postman collection named:
 
 was created to organize all requests.
 
-![alt text](assignment_2_postman_all_requests.png)
+![alt text](public/assignment_2_postman_all_requests.png)
 
 ---
 
@@ -114,7 +114,7 @@ was created with the variable:
 
 This allowed reusable request URLs.
 
-![alt text](assignment_2_postman_env.png)
+![alt text](public/assignment_2_postman_env.png)
 
 ---
 
@@ -125,7 +125,7 @@ This allowed reusable request URLs.
 ```
 GET {{url}}/posts
 ```
-![alt text](assignment_2_postman_get_all_posts.png)
+![alt text](public/assignment_2_postman_get_all_posts.png)
 
 
 ## Request 2 – GET Single Post
@@ -136,7 +136,7 @@ GET {{url}}/posts
 
 ```GET {{url}}/posts/99999```
 
-![alt text](assignment_2_postman_missing_post.png)
+![alt text](public/assignment_2_postman_missing_post.png)
 
 
 ### Request 4 – POST Create Post
@@ -149,7 +149,7 @@ GET {{url}}/posts
   "userId": 1
 }
 ```
-![alt text](assignment_2_postman_post_request.png)
+![alt text](public/assignment_2_postman_post_request.png)
 
 
 ### Request 5 – GET All Users
