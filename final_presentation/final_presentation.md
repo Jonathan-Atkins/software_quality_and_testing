@@ -1,3 +1,6 @@
+**SEE LINK TO PRESENTATION HERE**
+https://drive.google.com/file/d/1ITTmi6zgejo38fzrc2YnVTOb4tvB9loQ/view?usp=sharing
+
 # Final Presentation – Software Quality and Testing
 
 ## 1. Target Testing Applications
